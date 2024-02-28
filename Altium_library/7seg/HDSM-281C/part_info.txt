@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=HDSM-281C
+PartCategory=Display
+PackageCategory=Other
+PinCount=11
+Version=1.1
+Released=2019-06-17 22:22:55
+Downloaded=2024-02-26 14:16:07
+3D=Y

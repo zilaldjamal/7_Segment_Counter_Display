@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1301.9314.24"
+   (description "Tactile Switches LSH 6X6 SHORT TRAVEL SWITCH 4.3MM")
+   (family "SWI")
+   (package "1301931424")
+   (attribute "Datasheet Link" "https://us.schurter.com/pdf/english/typ_6x6_mm_tact_switches.pdf")
+   (attribute "Geometry.Height" "4.3mm")
+   (attribute "Manufacturer_Name" "SCHURTER")
+   (attribute "Manufacturer_Part_Number" "1301.9314.24")
+   (attribute "Mouser Part Number" "693-1301.9314.24")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Schurter/1301.9314.24?qs=GIi83qBHgilkrMwKiiKACQ%3D%3D")
+   (attribute "Arrow Part Number" "1301.9314.24")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/1301.9314.24/schurter?region=europe")
+   (gate
+    (symbol "1301.9314.24")
+    (pin "NO_1" 1 PS)
+    (pin "NO_2" 2 PS)
+    (pin "COM_1" 3 PS)
+    (pin "COM_2" 4 PS)
+   )
+  )
+  (symbol "1301.9314.24"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "1301931424"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3 -3)
+      (pt 3 -3)
+      (pt 3 3)
+      (pt -3 3)
+      (pt -3 -3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3 3)
+      (pt 3 3)
+      (pt 3 -3)
+      (pt -3 -3)
+      (pt -3 3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.05 4)
+      (pt 7.05 4)
+      (pt 7.05 -4)
+      (pt -7.05 -4)
+      (pt -7.05 4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.6 2.25)
+      (arc (pt -6.600 2.250) (pt -6.600 2.200) (pt -6.500 2.300) (start 180.0) (sweep 180.0))
+      (pt -6.5 2.25)
+      (arc (pt -6.500 2.250) (pt -6.600 2.200) (pt -6.500 2.300) (start 180.0) (sweep .0))
+      (pt -6.6 2.25))))
+   (leg 1 (pt -5.000 2.250) (padstack 0))
+   (leg 2 (pt 5.000 2.250) (padstack 0))
+   (leg 3 (pt -5.000 -2.250) (padstack 0))
+   (leg 4 (pt 5.000 -2.250) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.400 2.100 0 0 0.000))
+   )
+   (model "1301.9314.24.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

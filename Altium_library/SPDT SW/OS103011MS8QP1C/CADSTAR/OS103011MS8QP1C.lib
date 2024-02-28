@@ -1,0 +1,19 @@
+.OS103011MS8QP1C :1 ;Slide Switches .1A 12VDC SP3T MINI SLIDE
+OS103011MS8QP1C
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MH1 6=MH2
+*PLB 1="NO" 2="COM_1" 3="COM_2" 4="NC" 5="MH1" 6="MH2"
+*MXP 6
+*DFN OS103011MS8QP1C
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (OS103011MS8QP1C)
+~!Mouser Part Number (611-OS103011MS8QP1C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/OS103011MS8QP1C?qs=RHLK7eRW6AERXHXtlIQZ1Q%3D%3D)
+~!Arrow Part Number (OS103011MS8QP1C)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/os103011ms8qp1c/ck?region=europe)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/60/os-1382783.pdf)
+~!Height (8.7mm)
+~!3D_Model (OS103011MS8QP1C)
+OS103011MS8QP1C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

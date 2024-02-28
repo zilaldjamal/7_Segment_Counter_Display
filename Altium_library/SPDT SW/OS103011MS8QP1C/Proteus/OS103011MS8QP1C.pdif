@@ -1,0 +1,199 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "OS103011MS8QP1C"
+   (description "Slide Switches .1A 12VDC SP3T MINI SLIDE")
+   (family "SWI")
+   (package "OS103011MS8QP1C")
+   (attribute "Datasheet Link" "https://www.mouser.com/datasheet/2/60/os-1382783.pdf")
+   (attribute "Geometry.Height" "8.7mm")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "OS103011MS8QP1C")
+   (attribute "Mouser Part Number" "611-OS103011MS8QP1C")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/OS103011MS8QP1C?qs=RHLK7eRW6AERXHXtlIQZ1Q%3D%3D")
+   (attribute "Arrow Part Number" "OS103011MS8QP1C")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/os103011ms8qp1c/ck?region=europe")
+   (gate
+    (symbol "OS103011MS8QP1C")
+    (pin "NO" 1 PS)
+    (pin "COM_1" 2 PS)
+    (pin "COM_2" 3 PS)
+    (pin "NC" 4 NC)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "OS103011MS8QP1C"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "OS103011MS8QP1C"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.3 -2.15)
+      (pt 10.3 -2.15)
+      (pt 10.3 2.15)
+      (pt -2.3 2.15)
+      (pt -2.3 -2.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 1.75)
+      (pt -2.3 1.75)
+      (pt -2.3 2.15)
+      (pt -2.3 2.15)
+      (pt -2.3 1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 2.15)
+      (pt 10.3 2.15)
+      (pt 10.3 2.15)
+      (pt -2.3 2.15)
+      (pt -2.3 2.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 10.3 1.75)
+      (pt 10.3 1.75)
+      (pt 10.3 2.15)
+      (pt 10.3 2.15)
+      (pt 10.3 1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 -1.75)
+      (pt -2.3 -1.75)
+      (pt -2.3 -2.15)
+      (pt -2.3 -2.15)
+      (pt -2.3 -1.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 -2.15)
+      (pt 10.25 -2.15)
+      (pt 10.25 -2.15)
+      (pt -2.3 -2.15)
+      (pt -2.3 -2.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 10.3 -2.15)
+      (pt 10.3 -2.15)
+      (pt 10.3 -1.5)
+      (pt 10.3 -1.5)
+      (pt 10.3 -2.15))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.225 4.4)
+      (pt 12.225 4.4)
+      (pt 12.225 -3.15)
+      (pt -4.225 -3.15)
+      (pt -4.225 4.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 3.3)
+      (arc (pt 0.000 3.300) (pt -0.050 3.300) (pt 0.050 3.400) (start 180.0) (sweep -90.0))
+      (pt 0 3.4)
+      (arc (pt 0.000 3.400) (pt -0.050 3.300) (pt 0.050 3.400) (start 180.0) (sweep 90.0))
+      (pt 0 3.3)
+      (arc (pt 0.000 3.300) (pt -0.050 3.300) (pt 0.050 3.400) (start 180.0) (sweep -90.0))
+      (pt 0 3.4))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 4.000 0.000) (padstack 0))
+   (leg 3 (pt 6.000 0.000) (padstack 0))
+   (leg 4 (pt 8.000 0.000) (padstack 0))
+   (leg MH1 (pt -2.100 0.000) (padstack 5))
+   (leg MH2 (pt 10.100 0.000) (padstack 6))
+   (padstack 0
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 5
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (round 2.250))
+    (pad (layer INNER) (round 2.250))
+    (pad (layer BCOP) (round 2.250))
+   )
+   (padstack 6
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (round 2.250))
+    (pad (layer INNER) (round 2.250))
+    (pad (layer BCOP) (round 2.250))
+   )
+   (model "OS103011MS8QP1C.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

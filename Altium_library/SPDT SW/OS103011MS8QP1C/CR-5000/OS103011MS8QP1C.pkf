@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "OS103011MS8QP1C"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "OS103011MS8QP1C")
+        (spec "default")
+    )
+)

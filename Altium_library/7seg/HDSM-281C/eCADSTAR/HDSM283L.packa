@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HDSM-281C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-12-04-13:36:00)
+    (mountForm default
+        (footprintRef "HDSM283L")
+        (spec "System")
+    )
+)

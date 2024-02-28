@@ -1,0 +1,16 @@
+.HDSM-281C :1 ;BROADCOM LIMITED - HDSM-281C - LED DISPLAY, SMD, 7MM, RED, CA
+HDSM283L
+*STM DS
+*NGS
+*PLB 1="CATHODE G" 2="CATHODE  DP1" 3="CATHODE  F" 4="COMMON ANODE_1" 5="CATHODE A" 6="CATHODE  B" 7="CATHODE  DP2" 8="CATHODE C" 9="COMMON ANODE_2" 10="CATHODE  D" 11="CATHODE  E"
+*MXP 11
+*DFN HDSM-281C
+~!Mouser Part Number (630-HDSM-281C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HDSM-281C?qs=NCV3C3qdz%2FDIiI0K2Ja0mg%3D%3D)
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (HDSM-281C)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00083599.pdf)
+~!Height (3.15mm)
+~!3D_Model (HDSM-281C)
+HDSM-281C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

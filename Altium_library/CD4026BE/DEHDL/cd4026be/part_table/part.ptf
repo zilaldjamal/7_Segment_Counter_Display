@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CD4026BE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CD4026BE" (!) = "", "DIP794W53P254L1930H508Q16N", "Dual-In-Line Packages", "595-CD4026BE", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4026BE?qs=bkMXpVdiF42nXhwyXNpecA%3D%3D", "CD4026BE", "https://www.arrow.com/en/products/cd4026be/texas-instruments?region=nac", "CD4026BE, 5-stage Decade Counter/Divider, Decade, Up Counter, 3  18 V, 16-Pin PDIP", "http://www.ti.com/lit/ds/symlink/cd4026b.pdf", "5.08 mm"
+END_PART
+
+END.

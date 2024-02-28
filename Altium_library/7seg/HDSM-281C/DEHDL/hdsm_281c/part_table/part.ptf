@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HDSM_281C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "HDSM-281C" (!) = "", "HDSM283L", "Other", "630-HDSM-281C", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HDSM-281C?qs=NCV3C3qdz%2FDIiI0K2Ja0mg%3D%3D", "BROADCOM LIMITED - HDSM-281C - LED DISPLAY, SMD, 7MM, RED, CA", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00083599.pdf", "3.15 mm"
+END_PART
+
+END.

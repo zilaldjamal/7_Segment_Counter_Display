@@ -1,0 +1,18 @@
+.CD4026BE :1 ;CD4026BE, 5-stage Decade Counter/Divider, Decade, Up Counter, 3  18 V, 16-Pin PDIP
+DIP794W53P254L1930H508Q16N
+*STM IC
+*NGS
+*PLB 1="CLOCK" 2="CLOCK INHIBIT" 3="DISPLAY ENABLE IN" 4="DISPLAY ENABLE OUT" 5="CARRY OUT" 6="F" 7="G" 8="VSS" 9="D" 10="A" 11="E" 12="B" 13="C" 14="UNGATED " C" SEGMENT OUT" 15="RESET" 16="VDD"
+*MXP 16
+*DFN CD4026BE
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD4026BE)
+~!Mouser Part Number (595-CD4026BE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4026BE?qs=bkMXpVdiF42nXhwyXNpecA%3D%3D)
+~!Arrow Part Number (CD4026BE)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cd4026be/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/cd4026b.pdf)
+~!Height (5.08mm)
+~!3D_Model (CD4026BE)
+CD4026BE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

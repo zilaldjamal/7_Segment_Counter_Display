@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=OS103011MS8QP1C
+PartCategory=Switch
+PackageCategory=Other
+PinCount=6
+Version=1.4
+Released=2020-05-25 10:46:58
+Downloaded=2024-02-26 17:58:36
+3D=Y

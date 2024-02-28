@@ -1,0 +1,9 @@
+Manufacturer=SCHURTER
+PartNumber=1301.9314.24
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=2.4
+Released=2021-12-10 15:36:29
+Downloaded=2024-02-26 18:47:25
+3D=Y
